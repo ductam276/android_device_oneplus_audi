@@ -1,2 +1,11 @@
-# IFAA
-sys.oplus.ifaa.model=ONEPLUS-R23803
+
+# MistOS identifiers
+ro.mist.display=1240 x 2772, 120 hz
+ro.mist.battery=5500mah
+ro.mist.soc=Snapdragon® 7+ Gen 3
+ro.mist.camera=50MP + 8MP
+ro.mist.front=16MP
+ro.mist.platform=SM7675
+ro.mist.screen=6.74' AMOLED
+ro.mist.device=audi
+ro.mist.device.name=OnePlus Ace 3V
