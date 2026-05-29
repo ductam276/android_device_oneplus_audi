@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/alpha_audi.mk
+    $(LOCAL_DIR)/lineage_audi.mk
