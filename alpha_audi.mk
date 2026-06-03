@@ -60,6 +60,7 @@ WITH_ADB_INSECURE := false
 
 # Extras
 TARGET_INCLUDE_SIMPLE_TUNE := true
+TARGET_BUILD_DEVICE_AS_WEBCAM := true
 
 # Maintainer
 ALPHA_BUILD_TYPE := Unofficial
