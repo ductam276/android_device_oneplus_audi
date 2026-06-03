@@ -67,3 +67,6 @@ $(call inherit-product, device/oneplus/sm8650-common/common.mk)
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/oneplus/audi/audi-vendor.mk)
+
+# IR Blaster
+$(call inherit-product-if-exists, vendor/oneplus/ir/ir.mk)
