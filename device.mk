@@ -70,3 +70,5 @@ $(call inherit-product, vendor/oneplus/audi/audi-vendor.mk)
 
 # IR Blaster
 $(call inherit-product-if-exists, vendor/oneplus/ir/ir.mk)
+#BCR
+$(call inherit-product-if-exists, vendor/bcr/bcr.mk)
