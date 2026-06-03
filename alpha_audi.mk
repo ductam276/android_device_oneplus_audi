@@ -65,3 +65,4 @@ TARGET_BUILD_DEVICE_AS_WEBCAM := true
 # Maintainer
 ALPHA_BUILD_TYPE := Unofficial
 ALPHA_MAINTAINER := ductam276
+ALPHA_DEVICE := audi
